@@ -1,4 +1,4 @@
-# nx-vue-calendar-heatmap
+# nx-angular-calendar-heatmap
 
 [![NX Calendar Heatmap Preview](https://github.com/ngeenx/nx-calendar-heatmap/blob/main/docs/static/img/nx-calendar-heatmap-preview.gif?raw=true)](https://ngeenx.github.io/nx-calendar-heatmap/)
 
